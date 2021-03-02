@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+#Apps{
+    background-color: crimson;
+    height: 800px;
+        width:100%;
+}
+#Chatbot{
+    background-color: dodgerblue;
+    height:800px;
+    Width:100%;
+}
+#Games{
+    background-color: forestgreen;
+    height: 800px;
+    width:100%
+}
+img{
+    height: 500px;
+    width: 400px;
+}
+img:hover{
+    transform: scale(0.9)
+}
+#carousel1{
+    background-color: aqua;
+    margin-top: 60px;
+}
